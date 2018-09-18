@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://i.imgur.com/LQ6A2lM.jpg" height="150" width="150"/>
   <p align="center">quick-interfaces</p>
-  <p align="center" style="font-size: 0.5em">🃏 Simple easy typescript interface generation with an elegant CLI.</p>
+  <p align="center" style="font-size: 0.5em"> Simple easy typescript interface generation with an elegant CLI.</p>
 </h1>
 
 ### A simple CLI for magically generating Typescript interfaces from schemas.
