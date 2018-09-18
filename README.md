@@ -1,6 +1,10 @@
-# QuickInterfaces
+<h1 align="center">
+  <img src="https://i.imgur.com/LQ6A2lM.jpg" height="150" width="150"/>
+  <p align="center">quick-interfaces</p>
+  <p align="center" style="font-size: 0.5em"> Simple easy typescript interface generation with an elegant CLI.</p>
+</h1>
 
-### This is currently a WIP(work in progress). Feel free to contribute.
+### A simple CLI for magically generating Typescript interfaces from schemas.
 
 ### Motivation
 "Hey man I need you to tap out this interface (some model/entity/class/some arbitrary schema)." First get the schema then convert it in some slow, by hand, copy/pasta way etc. Then triple check that you didn't miss any required field or accidentally make an int a string or some other super simple mistake that will happen, don't just give up an put ?: any. Like any reasonable coder, I prefer to keep my workflow at the speed of done with no work at all and still have all my types.
